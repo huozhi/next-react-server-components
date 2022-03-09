@@ -54,9 +54,8 @@ nanoid@^3.1.30:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
   integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
-"next@https://github.com/huozhi/gh-npm-dist#7ce2a36":
+"next@file:../../next.js/packages/next":
   version "12.1.1-canary.7"
-  resolved "https://github.com/huozhi/gh-npm-dist#7ce2a36af647725c55302bf593db79c109be85e0"
   dependencies:
     "@next/env" "12.1.1-canary.7"
     caniuse-lite "^1.0.30001283"
